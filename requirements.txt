@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+torch_geometric
+scikit-learn
+pandas
+networkx
